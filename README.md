@@ -1,4 +1,4 @@
-# 100 Hacking Projects
+# 10 Hacking Projects Beginner level (1-15)
 
 Welcome to the **100 Hacking Projects** repository! This is a collection of 100 interesting, fun, and educational hacking projects designed to help you develop and enhance your skills in cybersecurity, ethical hacking, and programming. Each project explores different concepts and techniques, ranging from basic skills to more advanced topics.
 
@@ -26,5 +26,13 @@ The primary goal of this repository is to give you the tools and challenges to p
 
 Here are the first few projects in this collection. Check back as we continue to add more!
 
-1. **Project 1: Basic Port Scanning**  
-   Learn ho
+1. **Project 1: PORT SCANNING WITH NMAP"
+2. *Project 2: NETWORK PACKET ANALYSIS **
+3. **Project 3: MAC ADDRESS SPOOFING **
+4. *Project 4: BRUTE FORCING SSH LOGIN **
+5.**Project 5: SQL INJECTION BASIC **
+6. **Project 6: Creating a Keylogger**
+7. **Project 6: Creating a Keylogger**
+8. **Project 6: Creating a Keylogger**
+9. **Project 6: Creating a Keylogger**
+10. **Project 6: Creating a Keylogger**
